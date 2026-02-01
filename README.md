@@ -152,4 +152,3 @@ tailwind-main-page/
 
 **Author:** [awmiram](https://github.com/awmiram)
 
-**Repository:** https://github.com/awmiram/tailwind-main-page
